@@ -1,0 +1,16 @@
+{
+  "_comment": "Not a runnable npm package. Metadata for this learning/scaffolding docs contribution. No dependencies to install. Stub is comments-only. Verified practice path: Cardano Preview + Aiken hello + Mesh (see VERSIONS.md). Not official Cardano/Mesh/Aiken/oracle guidance.",
+  "name": "cardano-packaging-glue-starter",
+  "private": true,
+  "type": "docs-scaffold",
+  "network": "cardano-preview",
+  "liveOracle": false,
+  "stub": "stub/oracle-read.sketch.ts",
+  "practicePins": {
+    "aiken": "v1.1.23",
+    "stdlib": "v3",
+    "meshsdkCore": "1.9.1",
+    "node": "20.x",
+    "typescript": "5.8.x"
+  }
+}
